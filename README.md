@@ -19,4 +19,4 @@ Looking for something to binge watch amidst the COVID-19 lockdown? A TV show gen
 ## Future Plans:
 
 - [ ] Write a function to clear previous search results (i.e. clear all images)
-- [ ] Include a functionality to ensure we are not overloading an API
+- [ ] Include a functionality to prevent overloading of an API
