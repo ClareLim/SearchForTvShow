@@ -4,6 +4,10 @@ Looking for something to binge watch amidst the COVID-19 lockdown? A TV show gen
 
 > "Television is chewing gum for the eyes." - Frank Lloyd Wright
 
+## Features:
+
+- I used the search endpoint of tvmaze.com/api to call shows.
+
 ## Disclaimer:
 
 - I used a form that needs to be submitted instead of input event or change event or keydown because I wanted to avoid doing an API call or HTTP request that is too heavy.
